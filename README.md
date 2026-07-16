@@ -10,7 +10,7 @@
 
 ## Hello, I'm Dikshita Sahare!
 
-💻 Visit My Portfolio: https://dikshitasahare-portfolio.netlify.app/
+💻 Visit My Portfolio: https://dikshitasahare-portfolioo.netlify.app/
 
 </div>
 
